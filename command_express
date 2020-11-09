@@ -1,0 +1,60 @@
+31  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
+   32  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
+   33  command -v nvm
+   34  nvm install 10.15.0
+   35  npm install -g express-generator
+   36  npx express-generator
+   37  sudo apt-get remove nodejs
+   38  sudo apt autoremove
+   39  npm install -g express-generator
+   40  npm install -g npm
+   41  express
+   42  express --view=pug myapp
+   43  cd myapp/
+   44  npm install
+   45  npm audit fix
+   46  DEBUG=myapp:* npm start
+   47  mkdir controllers
+   48  DEBUG=myapp:* npm start
+   49* 
+   50  DEBUG=myapp:* npm start.js
+   51  DEBUG=myapp:* npm start
+   52  git init-db
+   53  sudo apt install git
+   54  git init-db
+   55  ls -al
+   56  mv /controllers/.gitignore /myapp
+   57  pwd
+   58  mv home/saugata/myapp/controllers/.gitignore /home/saugata/myapp/
+   59  cd controllers/
+   60  ls -al
+   61  mv /controllers/.gitignore /home/saugata/myapp/
+   62  mv /controllers/.gitignore /home/saugata/myapp
+   63  mv .gitignore /home/saugata/myapp
+   64  cd ..
+   65  ls -al
+   66  git add .
+   67  git commit -a
+   68  git config --global user.email "sb632@uowmail.edu.au"
+   69  git commit -a
+   70  git log
+   71  npm install nodemon --save-dev
+   72  DEBUG=myapp:* npm start
+   73  git add package.json
+   74  git commit -m "Install nodemon"
+   75  DEBUG=myapp:* npm start
+   76  git add .
+   77  ls -al
+   78  cd views
+   79  ls -al
+   80  cd ..
+   81  cd controllers/
+   82  ls -al
+   83  cd ..
+   84  git add /views
+   85  git add views
+   86  git add controllers
+   87  git add controllers/
+   88  git add views/
+   89  git commit -a
+   90  DEBUG=myapp:* npm start
