@@ -14,7 +14,7 @@
    44  npm install
    45  npm audit fix
    46  DEBUG=myapp:* npm start
-   47  mkdir controllers
+   47  mkdir controllers /*create a js file here and move the callback function from index.js here. rename the index.js as well(we rename it as landing.js). controller will contain the used functions. from index.js, these functions will be callbacked for GET,POST 
    48  DEBUG=myapp:* npm start
    49* 
    50  DEBUG=myapp:* npm start.js
